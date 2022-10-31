@@ -1,4 +1,4 @@
-﻿# to-do
+﻿# to-do app
 ## Made with ReactJs
-# visit site
+## visit site
 https://szmithu.github.io/to-do/
